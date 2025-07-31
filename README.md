@@ -7,12 +7,12 @@
 ###
 
 
-<h3 align="center">Hi 👋 I'm Hassan Ali</h3>
+<h2 align="center">Hi 👋 I'm Hassan Ali</h3>
 
 ###
 
 
-<h5 align="center">A Software Developer From Pakistan</h5>
+<h3 align="center">A Software Developer From Pakistan</h5>
 
 ###
 
