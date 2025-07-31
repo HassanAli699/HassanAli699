@@ -28,7 +28,7 @@
 
 ###
 
-<h5 align="start">Reach me @</h5>
+<h4 align="start">Reach me @</h5>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<h5 align="center">💻 Languages and Tools</h5>
+<h4 align="center">💻 Languages and Tools</h5>
 
 ###
 
