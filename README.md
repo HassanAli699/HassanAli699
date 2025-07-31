@@ -1,3 +1,7 @@
+
+![mario-working](https://github.com/user-attachments/assets/0e5a8423-c5ce-4d97-8689-f0982779f839)
+
+
 # 💫 About Me:
 I'm Currently working on CricFlex
 
