@@ -22,17 +22,17 @@
 
 ###
 
-<div align="center">
+<div align="start">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=HassanAli699.HassanAli699&left_text=Profile%20views"  />
 </div>
 
 ###
 
-<h5 align="center">Reach me @</h5>
+<h5 align="start">Reach me @</h5>
 
 ###
 
-<div align="center">
+<div align="start">
   <a href="https://www.linkedin.com/in/hassan-ali-a69b1a287/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
